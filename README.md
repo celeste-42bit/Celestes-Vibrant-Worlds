@@ -1,4 +1,4 @@
-<img width="399" height="421" alt="globe" src="https://github.com/user-attachments/assets/9ea53c3d-bfdc-45e2-976a-a421e4c32c75" />
+<img width="219" height="231" alt="Minecraft globe" src="https://github.com/user-attachments/assets/9ea53c3d-bfdc-45e2-976a-a421e4c32c75" />
 
 
 # Celestes-Vibrant-Worlds
