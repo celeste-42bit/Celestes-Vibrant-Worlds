@@ -1,4 +1,5 @@
-<img width="138" height="195" alt="minecraft cube-like globe" src="https://github.com/user-attachments/assets/ba956011-c502-490c-b6ed-032d3bab9d54" />
+<img width="135" height="153" alt="mcglobe" src="https://github.com/user-attachments/assets/7d41cbb0-96eb-436e-b983-abd73c0680e8" />
+
 
 
 
